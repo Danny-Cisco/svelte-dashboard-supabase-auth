@@ -1,3 +1,7 @@
-# Venue Scrape
+# A Template Repo for Dashboards
 
-AI assisted music venue booking tools
+Svelte
+Svelte-kit
+Supabase
+Supabase-Auth/Magiclink
+Sidebar Nav
