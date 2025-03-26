@@ -2,6 +2,7 @@
 
 - Svelte
 - Svelte-kit
+- Tailwind CSS
 - Supabase
-- Supabase-Auth/Magiclink
+- Supabase-Auth (Magiclink)
 - Sidebar Nav
