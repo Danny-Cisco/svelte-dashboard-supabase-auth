@@ -5,4 +5,4 @@
 - Tailwind CSS
 - Supabase
 - Supabase-Auth (Magiclink)
-- Sidebar Nav
+- Sidebar Navigation
